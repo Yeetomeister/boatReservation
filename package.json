@@ -1,0 +1,23 @@
+{
+  "name": "boat-reservation",
+  "version": "1.0.0",
+  "description": "Website where the Fonn Jakobsen family can book the family boat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeetomeister/boatReservation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeetomeister/boatReservation/issues"
+  },
+  "homepage": "https://github.com/Yeetomeister/boatReservation#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4"
+  }
+}
